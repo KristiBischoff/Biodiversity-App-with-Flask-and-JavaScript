@@ -26,3 +26,7 @@ Deploy the Flask app to Heroku.
 ### ******Note*******
 Made an update to the requirements code.
 Additionally, this same code may be found in the test_bio repository as there was a test for a different method of deploying to Heroku directly by linking Github in Heroku (compared to git bash.)
+
+## App sample:
+
+![biodiversity_dashboard](biodiversity_dashboard.png)
