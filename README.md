@@ -1,8 +1,6 @@
 # Belly Button Biodiversity with Plotly.js and Heroku
 
-## Link to the deployed app:
-
-https://biodiversitywithplotly.herokuapp.com/
+## Note that I had deleted the app from Heroku in late 2022. However, the code and files may be followed to convey the steps taking for the code and app deployment.
 
 Using Plotly.js and Heroku, the objective is to build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
